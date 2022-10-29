@@ -1,0 +1,67 @@
+{
+  "instances": [
+    {
+      "app": "Invidious",
+      "region": "Europe",
+      "country": "Switzerland",
+      "flag": "CH",
+      "url": "https://tube.it-kuny.ch"
+    },
+    {
+      "app": "Piped",
+      "region": "Europe",
+      "country": "Finland",
+      "flag": "🇫🇮",
+      "url": "https://api-piped.mha.fi"
+    },
+    {
+      "app": "Invidious",
+      "region": "Europe",
+      "country": "Germany",
+      "flag": "🇩🇪",
+      "url": "https://y.com.sb"
+    },
+    {
+      "app": "Invidious",
+      "region": "Europe",
+      "country": "Germany",
+      "flag": "🇩🇪",
+      "url": "https://invidious.nerdvpn.de"
+    },
+    {
+      "app": "Invidious",
+      "region": "Europe",
+      "country": "Greece",
+      "flag": "🇬🇷",
+      "url": "https://invidious.projectsegfau.lt"
+    },
+    {
+      "app": "Invidious",
+      "region": "Europe",
+      "country": "Netherlands",
+      "flag": "🇳🇱",
+      "url": "https://invidious-eu01.yattee.stream"
+    },
+    {
+      "app": "Invidious",
+      "region": "Europe",
+      "country": "Romania",
+      "flag": "🇷🇴",
+      "url": "https://invidious-eu01.yattee.stream"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "url": "https://vid.puffyan.us"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "url": "https://inv.riverside.rocks"
+    },
+  ]
+}
