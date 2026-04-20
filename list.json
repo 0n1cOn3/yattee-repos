@@ -1,13 +1,6 @@
 {
   "instances": [
     {
-      "app": "Invidious",
-      "region": "Europe",
-      "country": "Switzerland",
-      "flag": "🇨🇭",
-      "url": "https://tube.it-kuny.ch"
-    },
-    {
       "app": "Piped",
       "region": "Europe",
       "country": "Finland",
